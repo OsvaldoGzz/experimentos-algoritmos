@@ -29,7 +29,6 @@ Al finalizar se regeneran las gráficas y los CSV. El ejercicio 5 tarda más por
 - `graficas/`: ocho imágenes PNG.
 - `resultados/`: tablas CSV y resumen de resultados.
 - `reporte/reporte.md`: reporte con gráficas y análisis.
-- `reporte/guion_video.md`: guía para una demo de menos de ocho minutos.
 - `requirements.txt`: dependencia.
 
 **La consigna recibida menciona una estructura exacta, pero no incluye el árbol de carpetas.
