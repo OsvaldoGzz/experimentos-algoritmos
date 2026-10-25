@@ -4,7 +4,7 @@
 
 Repositorio público: https://github.com/OsvaldoGzz/experimentos-algoritmos
 
-Video de demostración: **PENDIENTE: pegar enlace accesible del video**
+Video de demostración: https://youtu.be/M6OsmuXpfT8
 
 ## Objetivo y procedimiento
 
