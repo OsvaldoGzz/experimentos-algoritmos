@@ -2,7 +2,7 @@
 
 **Osvaldo González Martínez — Matrícula 2043042**
 
-Repositorio público: **PENDIENTE: pegar URL del repositorio**
+Repositorio público: https://github.com/OsvaldoGzz/experimentos-algoritmos
 
 Video de demostración: **PENDIENTE: pegar enlace accesible del video**
 
